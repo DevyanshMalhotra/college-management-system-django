@@ -73,7 +73,13 @@ Follow these steps to set up the College Management System on your local machine
     python manage.py migrate
     ```
 
-5. **Run the Development Server**
+5. **Create Superuser**
+
+    ```bash
+    python manage.py createsuperuser
+    ```
+
+6. **Run the Development Server**
 
     ```bash
     python manage.py runserver
@@ -89,7 +95,7 @@ Open your browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Contributing
 
-We welcome contributions to enhance the College Management System. To contribute:
+Contributions are welcome, to enhance the College Management System. To contribute:
 
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/YourFeature`).
