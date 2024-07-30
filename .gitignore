@@ -1,0 +1,82 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django migrations
+main_app/migrations/
+*.pyc
+*.pyo
+*.pyd
+
+# Django secret key
+.env
+
+# Database files
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS Finder
+.DS_Store
+
+# Windows Thumbnail Cache
+Thumbs.db
+
+# Log files
+*.log
+*.log.*
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+
+# pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.dox
+
+# mypy
+.mypy_cache/
+
+# Pylint
+pylint-report.txt
+pylint-global.txt
+
+# Pyre type checker
+.pyre/
+
+# Type hint cache
+.typings/
+
+# End of file
