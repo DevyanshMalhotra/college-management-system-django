@@ -89,9 +89,7 @@ Open your browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Application Demo
 
-<video src="/working/working.mp4" controls="controls" style="max-width: 100%;">
-    Your browser does not support the video tag.
-</video>
+[![Watch the video](/working/thumbnail.png)](/working/working.mp4)
 
 This video demonstrates the working of the application.
 
