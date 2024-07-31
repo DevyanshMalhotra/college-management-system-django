@@ -87,6 +87,14 @@ Follow these steps to set up the College Management System on your local machine
 
 Open your browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) to access the application.
 
+## Application Demo
+
+<video src="/working/working.mp4" controls="controls" style="max-width: 100%;">
+    Your browser does not support the video tag.
+</video>
+
+This video demonstrates the working of the application.
+
 ## Usage
 
 - **Admin/HOD**: Log in as an admin to manage courses, subjects, sessions, staff, and students. Access various administrative functions from the admin dashboard.
