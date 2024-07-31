@@ -89,8 +89,9 @@ Open your browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Application Demo
 
-[(/working/thumbnail.png)]
-[Download and watch the video](/working/working.mp4)
+![Thumbnail for the video](/working/thumbnail.png)
+
+[Download and watch the video](working/working.mp4)
 
 This video demonstrates the working of the application.
 
