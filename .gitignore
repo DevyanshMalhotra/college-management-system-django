@@ -22,8 +22,7 @@ main_app/migrations/
 # Django secret key
 .env
 
-# Database files
-db.sqlite3
+
 
 # Static files
 staticfiles/
